@@ -18,3 +18,7 @@ Images of the current website:
 
 - Landing page:
   ![Landing page](/assets/images/landing_page.png)
+
+---
+
+If you have questions or problems about this repository, please email me at yanghui.xi@gmail.com.
